@@ -48,7 +48,7 @@ export const stadiums = [
     maxPlayers: 8
   },
   {
-    id: "hp",
+    id: "hj",
     name: {
       ja: "ハイジャンプ",
       en: "High Jump"
